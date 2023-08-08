@@ -40,10 +40,10 @@
 <h3><b>pkg install php -y</b></h3>
 <h3><b>pkg install nmap -y</b></h3>
 <h3><b>git clone https://github.com/us-nexus-hackers/WEBHACK_TOOLS</b></h3>
-<h3><b>cd N-WEB</b></h3>
+<h3><b>cd WEBHACK_TOOLS</b></h3>
 <h3><b>pip2 install -r requirements.txt</b></h3>
 <h2><i>[+] For Run :</i></h2>
-<h3><b>python2 n-web.py</b></h3>
+<h3><b>python2 webhack.py</b></h3>
 <br>
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
