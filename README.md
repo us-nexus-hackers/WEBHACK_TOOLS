@@ -30,7 +30,7 @@
 
 <h3><b>📸Screenshot : </b></h3>
 <br>
-<img src="https://github.com/Nabil-Official/N-WEB/blob/main/n-webv2.png?raw=true">
+<img src="[https://raw.githubusercontentcom/us-nexus-hackers/WEBHACK_TOOLS/main/received_3814227098861500.jpeg)">
 <br>
 <br>
 <h2><b>[+] INSTALLATION : </b></h2>
