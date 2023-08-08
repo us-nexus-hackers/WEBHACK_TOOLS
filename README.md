@@ -30,7 +30,7 @@
 
 <h3><b>📸Screenshot : </b></h3>
 <br>
-<img src="https://raw.githubusercontentcom/us-nexus-hackers/WEBHACK_TOOLS/main/received_3814227098861500.jpeg">
+<img src="https://raw.githubusercontent.com/us-nexus-hackers/WEBHACK_TOOLS/main/received_3814227098861500.jpeg">
 <br>
 <br>
 <h2><b>[+] INSTALLATION : </b></h2>
