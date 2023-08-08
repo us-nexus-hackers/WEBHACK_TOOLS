@@ -1,4 +1,4 @@
-# N-WEB [ 1.2.2 ]
+# WEBHACK_H3NTAI-V1
 <b>WEB PENETRATION TESTING TOOL</b>
 <br>
 
@@ -39,7 +39,7 @@
 <h3><b>pkg install python && pkg install python2 -y</b></h3>
 <h3><b>pkg install php -y</b></h3>
 <h3><b>pkg install nmap -y</b></h3>
-<h3><b>git clone https://github.com/Nabil-Official/N-WEB</b></h3>
+<h3><b>git clone https://github.com/us-nexus-hackers/WEBHACK_TOOLS</b></h3>
 <h3><b>cd N-WEB</b></h3>
 <h3><b>pip2 install -r requirements.txt</b></h3>
 <h2><i>[+] For Run :</i></h2>
@@ -48,4 +48,4 @@
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
 <h1><i>🔰 DEVELOPER :</h1></i>
-<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
+<in><li><a href="https://t.me/usnexushacker"><i>US NEXUS HACEKR (3RR0R)</i></a></i></li>
