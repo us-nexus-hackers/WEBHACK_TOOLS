@@ -81,7 +81,7 @@ def intro():
     print blue+"[\033[1;31m23\033[1;94m] \033[1;35m>>\033[1;32m Dork Scanner"
     print blue+"[\033[1;31m24\033[1;94m] \033[1;35m>>\033[1;32m Help?"
     print blue+"[\033[1;31m25\033[1;94m] \033[1;35m>>\033[1;32m About"
-    print blue+"[\033[1;31m25\033[1;94m] \033[1;35m>>\033[1;32m Join Our Telegram"
+    print blue+"[\033[1;31m26\033[1;94m] \033[1;35m>>\033[1;32m Join Our Telegram"
     print blue+"[\033[1;31m00\033[1;94m] \033[1;35m>>\033[1;32m Exit"
     
     # choise inputb
@@ -142,7 +142,7 @@ def intro():
          os.system('cd files && python2 about.py')
          
     elif user_choise == "25":
-         os.system('xdg-open "https://facebook.com/nabil.404"')
+         os.system('xdg-open "https://t.me/usnexusfuckinge4or"')
          
     elif user_choise == "26":
          os.system('xdg-open "https://t.me/usnexushacker"')
@@ -188,7 +188,3 @@ def up_chker():
         os.system('clear')
         intro()
 up_chker()
-
-
-
-
